@@ -21,8 +21,6 @@ const maxOfThree = (a, b, c) => {
   } else {
     return c;
   }
-
-  Math.max(a, b, c);
 };
 
 /*
