@@ -1,5 +1,7 @@
 # Function Junction
 
+A list of koans to be completed so as that all test pass.
+
 ## Objectives
 
 - Demonstrate understanding of types, functions, argument-handling, loops, and conditional statements
